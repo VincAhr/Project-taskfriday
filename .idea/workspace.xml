@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70aaa6a3-9670-44c5-990a-9be50056551b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neuefische/friday/week2/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neuefische/friday/week2/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neuefische/friday/week2/OrderRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neuefische/friday/week2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neuefische/friday/week2/ProductRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neuefische/friday/week2/ShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/neuefische/friday/week2/AppMainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neuefische/friday/Checkpassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/neuefische/friday/week1/Checkpassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/neuefische/friday/CheckpasswordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/neuefische/friday/week1/CheckpasswordTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +32,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -48,17 +65,21 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="neuefische.friday.week1" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="neuefische.friday.week2" />
       <recent name="neuefische.friday" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.CheckpasswordTest">
     <configuration name="Checkpassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="neuefische.friday.Checkpassword" />
+      <option name="MAIN_CLASS_NAME" value="neuefische.friday.week1.Checkpassword" />
       <module name="Projekt-new-taskfriday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="neuefische.friday.*" />
+          <option name="PATTERN" value="neuefische.friday.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +91,12 @@
       <module name="Projekt-new-taskfriday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="neuefische.friday.*" />
+          <option name="PATTERN" value="neuefische.friday.week1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="neuefische.friday" />
-      <option name="MAIN_CLASS_NAME" value="neuefische.friday.CheckpasswordTest" />
+      <option name="PACKAGE_NAME" value="neuefische.friday.week1" />
+      <option name="MAIN_CLASS_NAME" value="neuefische.friday.week1.CheckpasswordTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,6 +123,9 @@
       <workItem from="1644006767817" duration="3963000" />
       <workItem from="1644154257915" duration="14210000" />
       <workItem from="1644225748348" duration="2978000" />
+      <workItem from="1644573441023" duration="289000" />
+      <workItem from="1644573919980" duration="12000" />
+      <workItem from="1644573957323" duration="17337000" />
     </task>
     <servers />
   </component>

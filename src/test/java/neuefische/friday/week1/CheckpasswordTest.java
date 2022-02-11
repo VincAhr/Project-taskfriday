@@ -1,9 +1,8 @@
-package neuefische.friday;
+package neuefische.friday.week1;
 
+import neuefische.friday.week1.Checkpassword;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CheckpasswordTest {
 

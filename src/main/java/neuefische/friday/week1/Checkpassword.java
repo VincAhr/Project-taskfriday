@@ -1,4 +1,4 @@
-package neuefische.friday;
+package neuefische.friday.week1;
 
 public class Checkpassword {
 
