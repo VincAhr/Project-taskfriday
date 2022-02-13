@@ -11,14 +11,10 @@ public class ProductRepo {
         this.products = products;
     }
 
-    public ProductRepo() {
-        products = new HashMap<>();
-    }
-
     public Collection<Product> list(){
         return products.values();
     }
-    // //TODO Warum String?
+    //TODO Warum String?
     public Product get(String theid){
         return products.get(theid);
     }

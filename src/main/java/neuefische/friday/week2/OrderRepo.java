@@ -7,8 +7,8 @@ public class OrderRepo {
 
     private HashMap<String, Order> orders;
 
-    public OrderRepo(HashMap<String, Order> orders) {
-        this.orders = orders;
+    public OrderRepo() {
+        orders = new HashMap<>();
     }
 
     public Collection<Order> list() {

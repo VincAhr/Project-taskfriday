@@ -14,6 +14,7 @@ public class ShopService {
         this.myProducts = myProducts;
     }
 
+
     public Product getProduct(String id){
         return myProducts.get(id);
     }
